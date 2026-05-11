@@ -1,4 +1,4 @@
-# BTS SIO SLAM - Ressources Python
+# Python - Exercices
 
 ## 📂 Structure
 - **/exercices** : 72 exercices Python (Licence MIT).
